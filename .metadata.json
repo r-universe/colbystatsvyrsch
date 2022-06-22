@@ -1,5 +1,9 @@
 [
   {
+    "package": "CIPerm",
+    "oncran": true
+  },
+  {
     "package": "surveyCV",
     "oncran": true
   }
