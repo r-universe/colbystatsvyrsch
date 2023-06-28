@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "CIPerm"]
 	path = CIPerm
 	url = https://github.com/colbystatsvyrsch/ciperm
-	shallow = true
-	registered = true
 [submodule "surveyCV"]
 	path = surveyCV
 	url = https://github.com/colbystatsvyrsch/surveycv
-	shallow = true
-	registered = true
